@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int var = 20;
+	int var = 20;  //represnt value of sensor
 	
 	printf("%d",var);
 	
